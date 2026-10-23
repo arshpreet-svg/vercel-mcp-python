@@ -1,0 +1,2 @@
+mcp>=2.3
+vercel-mcp-python @ git+https://github.com/arshpreet-svg/vercel-mcp-python
